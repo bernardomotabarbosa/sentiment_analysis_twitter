@@ -23,10 +23,6 @@ python twitter_extract.py --list vacinação vacina coronavac -n 1 -p "C:/Users/
 
 # Result
 
-The most common words found when cleaning and deleting the list of words used in the search were:
-
-![Words most commum](https://github.com/bernardomotabarbosa/sentiment_analysis_twitter/blob/master/figures/word_cloud_positive_clean.png?raw=true)
-
 The positive and negative word clouds were:
 
 ![Cloud positive](https://github.com/bernardomotabarbosa/sentiment_analysis_twitter/blob/master/figures/most_comm_words_without_list_of_words.png?raw=true)
