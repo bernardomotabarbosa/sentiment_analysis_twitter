@@ -25,7 +25,7 @@ python twitter_extract.py --list vacinação vacina coronavac -n 1 -p "C:/Users/
 
 The positive and negative word clouds were:
 
-![Cloud positive](https://github.com/bernardomotabarbosa/sentiment_analysis_twitter/blob/master/figures/most_comm_words_without_list_of_words.png?raw=true)
+![Cloud positive](https://github.com/bernardomotabarbosa/sentiment_analysis_twitter/blob/master/figures/word_cloud_positive_clean.png?raw=true)
 ![Cloud negative](https://github.com/bernardomotabarbosa/sentiment_analysis_twitter/blob/master/figures/word_cloud_negative_clean.png?raw=true)
 
 # Getting access to the twitter api
