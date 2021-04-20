@@ -1,7 +1,6 @@
 # Twitter sentiment analysis
 
-
-This project was created with the aim of studying people's feelings about the vaccine theme.
+I created this project to study people's feelings about the vaccine theme.
 In Portuguese tweets were extracted with words related to that theme, the tweets were cleaned and classified with the TextBlob package 
 and descriptive analyzes were made, the code can be adapted to analyze any topic.
 
