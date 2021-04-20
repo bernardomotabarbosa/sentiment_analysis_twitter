@@ -32,10 +32,10 @@ class TwitterClient(object):
         self.sentiment_words = ('brasil', 'brazil', 'guedes', 'bolsonaro', 'lula', 'covid', 'covid19', 'covid-19')
         self.punctuations = string.punctuation + '‘' + 'º' + '’' + '-' + '"' + "”" + "'" + "“" + '...' + '#' + '@'
         self.list_of_words = []
-        self.consumer_key = 'dXkYZCN9hrtqJ9Zy7PY1Gq1e2'
-        self.consumer_secret = 'LLHE5PIqXRfYXPL0UUVp0OmoZ78HYht2GuynvYal48FIhSsIvW'
-        self.access_token = '1268541340410957827-4RUVGZ8gvWIJvlx9KP3eBtuexv2tyD'
-        self.access_token_secret = '7VAfqLjRuswvXFadF5ynOBHUt079Vt8niAdTbu4RZufr4'
+        self.consumer_key = ''
+        self.consumer_secret = ''
+        self.access_token = ''
+        self.access_token_secret = ''
 
         # attempt authentication
         try:
